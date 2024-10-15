@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/mainPage",
+    "pages/loginPage",
+    "pages/registerPage",
+    "pages/searchPage",
+    "pages/wechatPage",
+    "pages/discoverPage",
+    "pages/friendsPage",
+    "pages/myselfPage",
+    "pages/chatPage"
+  ]
+}
